@@ -1,20 +1,20 @@
-Objectives of Rock Paper Scissors Project
+Rock-paper-and-scissor
+Rock, Paper, Scissors is a classic hand gesture game transformed into an interactive digital application. This project implements the traditional two-player game where a human competes against a computer opponent in a series of rounds based on a simple yet strategic ruleset. The game follows a cyclic dominance system:
 
-1. To develop a simple console-based game using C++.
-2. To understand the concept of conditional statements and loops.
-3. To implement random number generation for computer moves.
-4. To improve problem-solving and logical thinking skills.
-5. To practice functions, classes, and object-oriented programming concepts.
-6. To create an interactive and user-friendly game application.
+🪨 Rock crushes Scissors ✂️ Scissors cuts Paper 📄 Paper covers Rock
 
+Built as a university-level software project, the application demonstrates fundamental programming concepts while delivering an engaging and functional user experience.
 
-Features of Rock Paper Scissors Project
+Features FeatureDescription🎮 Interactive GameplayPlayer selects Rock, Paper, or Scissors each round🤖 AI OpponentComputer generates choices using random or adaptive logic🏆 Score TrackingReal-time display of wins, losses, and draws🔄 Round SystemBest of 3, 5, or unlimited round modes📊 Game StatisticsSummary of overall player performance🔁 Replay OptionRestart the game without relaunching the application⚡ Instant ResultsImmediate win/loss/draw feedback after each round🖥️ User InterfaceClean, simple, and easy-to-navigate design
 
-1. User can choose Rock, Paper, or Scissors.
-2. Computer generates random choices automatically.
-3. Program compares player and computer choices.
-4. Displays winner or draw result instantly.
-5. Supports multiple rounds of gameplay.
-6. Simple menu-driven interface.
-7. Fast and easy-to-use console application.
-8. Uses basic C++ concepts suitable for beginners.
+Objectives
+
+Primary Objective To design and develop a fully functional Rock, Paper, Scissors game application that allows a user to compete against a computer-controlled opponent.
+Technical Objectives
+Implement core game logic using structured and object-oriented programming Develop a responsive and user-friendly interface Apply conditional logic to determine round outcomes accurately Store and display session-based game statistics
+
+AI Objectives
+Program the computer opponent to make valid random selections Optionally implement a smart AI that analyzes player patterns to improve its responses
+
+Academic Objectives
+Demonstrate understanding of programming fundamentals Apply software development lifecycle (SDLC) principles Practice problem-solving, testing, and debugging techniques Present a complete, documented, and working software product
