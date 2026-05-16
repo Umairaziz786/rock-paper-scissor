@@ -1,20 +1,36 @@
-Rock-paper-and-scissor
-Rock, Paper, Scissors is a classic hand gesture game transformed into an interactive digital application. This project implements the traditional two-player game where a human competes against a computer opponent in a series of rounds based on a simple yet strategic ruleset. The game follows a cyclic dominance system:
+# ✊ Rock Paper Scissors — C++ OOP Project
 
-🪨 Rock crushes Scissors ✂️ Scissors cuts Paper 📄 Paper covers Rock
+A console-based Rock, Paper, Scissors game built with **C++** using **Object-Oriented Programming** concepts as a university project.
 
-Built as a university-level software project, the application demonstrates fundamental programming concepts while delivering an engaging and functional user experience.
+---
 
-Features FeatureDescription🎮 Interactive GameplayPlayer selects Rock, Paper, or Scissors each round🤖 AI OpponentComputer generates choices using random or adaptive logic🏆 Score TrackingReal-time display of wins, losses, and draws🔄 Round SystemBest of 3, 5, or unlimited round modes📊 Game StatisticsSummary of overall player performance🔁 Replay OptionRestart the game without relaunching the application⚡ Instant ResultsImmediate win/loss/draw feedback after each round🖥️ User InterfaceClean, simple, and easy-to-navigate design
+## ✨ Features
 
-Objectives
+- 🎮 **Player vs Computer** — Compete against a computer opponent that randomly picks its choice every round
+- 🔢 **Three Choices** — Choose Rock, Paper, or Scissors by entering 1, 2, or 3 on the keyboard
+- 🔄 **Custom Rounds** — Select how many rounds to play before the game begins
+- ⚡ **Instant Round Result** — See both choices and the round result immediately after each round
+- 📊 **Score Tracking** — Score is updated and displayed after every round
+- ✅ **Input Validation** — Invalid inputs are caught and the player is asked to re-enter a correct choice
+- 🏆 **Final Winner Announcement** — Overall winner is declared at the end based on total score
+- 🖥️ **Easy to Use** — Simple console interface with clear instructions throughout the game
 
-Primary Objective To design and develop a fully functional Rock, Paper, Scissors game application that allows a user to compete against a computer-controlled opponent.
-Technical Objectives
-Implement core game logic using structured and object-oriented programming Develop a responsive and user-friendly interface Apply conditional logic to determine round outcomes accurately Store and display session-based game statistics
+---
 
-AI Objectives
-Program the computer opponent to make valid random selections Optionally implement a smart AI that analyzes player patterns to improve its responses
+## 🎯 Objectives
 
-Academic Objectives
-Demonstrate understanding of programming fundamentals Apply software development lifecycle (SDLC) principles Practice problem-solving, testing, and debugging techniques Present a complete, documented, and working software product
+1. **Build a Working Game** — Create a complete Rock, Paper, Scissors game that runs correctly from start to finish without errors
+2. **Apply OOP Concepts** — Organize the code into classes, objects, and methods using Object-Oriented Programming in C++
+3. **Implement Game Logic** — Write correct win, lose, and draw conditions based on the standard rules of the game
+4. **Handle User Input** — Accept input from the player and validate it before the game continues
+5. **Track and Display Scores** — Record and display the score after every round throughout the game
+6. **Announce the Final Winner** — Compare total scores at the end and correctly declare the overall winner
+7. **Practice Programming Skills** — Apply C++ programming knowledge learned in class to a real working project
+
+---
+
+## 🛠️ Built With
+
+- **Language** — C++
+- **Concepts** — Object-Oriented Programming (OOP)
+- **IDE** — Dev C++ / Code::Blocks / VS code
